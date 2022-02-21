@@ -1,0 +1,8 @@
+.DisplayCSS {
+    width: 6rem;
+    height: 6rem;
+    margin: 0.5rem;
+    margin-block: blue;
+    display: inline-block;
+  }
+  
